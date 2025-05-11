@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+lxml
+html5lib
+beautifulsoup4
+cvxpy
+ecos
